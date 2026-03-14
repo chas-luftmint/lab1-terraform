@@ -13,7 +13,7 @@ Projektet använder GitHub Actions för att säkerställa kod kvalite och säker
 * **Terraform Format:** Håller konsistent styling.
 * **Trivy IaC Scan:** Skannar för säkerhets miskonfigurationer.
 * **Terraform Validate:** Checkar syntax.
-
+![Green Checks](greencheckinitial.png)
 
 ## Infrastructure & Security Decisions
 * **Vad gör UFW:** Den är konfigurerad via startup.sh och blockerar all inkommande trafik förutom SSH(port22).
