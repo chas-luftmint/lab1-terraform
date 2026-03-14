@@ -14,7 +14,6 @@ Projektet använder GitHub Actions för att säkerställa kod kvalite och säker
 * **Trivy IaC Scan:** Skannar för säkerhets miskonfigurationer.
 * **Terraform Validate:** Checkar syntax.
 
-[INSERT SCREENSHOT OF GREEN CHECKMARKS HERE]
 
 ## Infrastructure & Security Decisions
 * **Vad gör UFW:** Den är konfigurerad via startup.sh och blockerar all inkommande trafik förutom SSH(port22).
@@ -24,4 +23,7 @@ Projektet använder GitHub Actions för att säkerställa kod kvalite och säker
 
 ## Screenshots
 ### VM in GCP Console
+<<<<<<< HEAD
 ![VM](/home/luft/Github/lab1ss/running-vm.png)
+=======
+>>>>>>> 14aa6e7805a396a6831838648ceb0cba5578798b
