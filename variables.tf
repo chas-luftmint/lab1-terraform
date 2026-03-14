@@ -11,6 +11,6 @@ variable "region" {
 }
 
 variable "student_id" {
-  description = "Your student identifier"
+  description = "armin.ozkalp"
   type        = string
 }
