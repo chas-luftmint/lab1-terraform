@@ -23,7 +23,4 @@ Projektet använder GitHub Actions för att säkerställa kod kvalite och säker
 
 ## Screenshots
 ### VM in GCP Console
-<<<<<<< HEAD
-![VM](/home/luft/Github/lab1ss/running-vm.png)
-=======
->>>>>>> 14aa6e7805a396a6831838648ceb0cba5578798b
+![VM](running-vm.png)
